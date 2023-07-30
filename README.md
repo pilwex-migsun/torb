@@ -1,4 +1,4 @@
-# Tor
+# Torb
  Tor for Urbit
 
 For now, this app queries Onionoo protocol to get information about Tor relays and bridges.
@@ -10,7 +10,7 @@ For now, this app queries Onionoo protocol to get information about Tor relays a
 Create and mount a new desk on your ship (or development ship) by runnig these commands in Dojo:
 
 
-`|merge %torb our %base`
+`|new-desk %torb`
 
 
 `|mount %torb`
