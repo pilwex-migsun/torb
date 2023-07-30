@@ -7,5 +7,5 @@
   color+0x99.10a0
   image+'https://raw.githubusercontent.com/pilwex-migsun/torb/master/ui/docket-assets/black-tor.png'
   base+'torb'
-  glob-http+['https://raw.githubusercontent.com/pilwex-migsun/torb/master/ui/docket-assets/glob-0v1.17nbs.9co5n.ff5e3.t9rlc.01jp5.glob' 0glob-0v1.17nbs.9co5n.ff5e3.t9rlc.01jp5]
+  glob-http+['https://raw.githubusercontent.com/pilwex-migsun/torb/master/ui/docket-assets/glob-0v1.17nbs.9co5n.ff5e3.t9rlc.01jp5.glob' 0v1.17nbs.9co5n.ff5e3.t9rlc.01jp5]
 ==
