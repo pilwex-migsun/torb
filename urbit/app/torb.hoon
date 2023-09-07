@@ -1,5 +1,5 @@
 /-  *torb
-/+  *server, default-agent, *torb
+/+  *server, default-agent, *torb, dbug
 ::
 =>  |%
     +$  state-0  [%0 ~]
@@ -10,6 +10,7 @@
 ::
 =|  state-0
 =*  state  -
+%-  agent:dbug
 ^-  agent:gall
 =<  |_  =bowl:gall
   :: aliases
